@@ -1,4 +1,4 @@
-# Fundamentals-of-Number-Theory-and-Algebra
+Fundamentals-of-Number-Theory-and-Algebra
 
 数论与代数学基础
 
